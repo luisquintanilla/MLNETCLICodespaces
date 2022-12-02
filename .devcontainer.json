@@ -1,4 +1,7 @@
 {
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
     "postStartCommand": "bash download-data.sh",
     "extensions": [
         "ms-dotnettools.csharp",
