@@ -478,3 +478,6 @@ $RECYCLE.BIN/
 
 # Data files
 data/**/*
+
+# Generated project
+TaxiFareRegression/**/*
